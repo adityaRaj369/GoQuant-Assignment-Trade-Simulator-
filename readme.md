@@ -1,7 +1,7 @@
 
-# Cryptocurrency Trade Simulator
+# Trade Simulator
 
-A comprehensive Python-based trading simulator that mimics real-world cryptocurrency markets using real-time Level-2 (L2) order book data. This project provides a robust framework for simulating and backtesting trading strategies with realistic execution, slippage, market impact, and fee modeling.
+Python-based trading simulator mimicing real-world cryptocurrency markets using real-time Level-2 (L2) order book data. This project provides a robust framework for simulating and backtesting trading strategies with realistic execution, slippage, market impact, and fee modeling.
 
 ---
 
